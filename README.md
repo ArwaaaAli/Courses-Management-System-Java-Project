@@ -46,6 +46,6 @@ A command-line based Courses Management System developed in Java. The system all
 For all code files and program outputs, check the project report:  
 [View Project Report](./Courses_Management_Report.pdf)
 
-## 👩‍💻 Author
+## Author
 Arwa Alyami  
 Developed as part of a university group project (3–4 students)
