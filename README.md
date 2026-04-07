@@ -14,7 +14,7 @@ A command-line based Courses Management System developed in Java. The system all
 - Interactive Command-Line Interface (CLI)
 - Basic error handling for invalid inputs
 
-## Technologies Used
+##  Technologies Used
 - Java
 - Object-Oriented Programming (OOP)
 - Data Structures (Lists)
@@ -31,7 +31,7 @@ A command-line based Courses Management System developed in Java. The system all
 2. Run the `Main` class  
 3. Use the CLI menu to test all functionalities
 
-##  Sample Outputs
+## Sample Outputs
 
 ### 🔹 Before Testing (Initial Run)
 ![Before Testing](before_testing.png)
@@ -42,10 +42,10 @@ A command-line based Courses Management System developed in Java. The system all
 ### 🔹 Error Handling Example
 ![Error Handling](error_handling.png)
 
-##  Full Documentation & Screenshots
-For full screenshots, test cases, and detailed explanations, check the project report:  
-[View Full Report](./Courses_Management_Report.pdf)
+##  Full Code & Screenshots
+For all code files and program outputs, check the project report:  
+[View Project Report](./Courses_Management_Report.pdf)
 
-##  Author
+## 👩‍💻 Author
 Arwa Alyami  
 Developed as part of a university group project (3–4 students)
