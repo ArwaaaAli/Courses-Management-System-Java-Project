@@ -1,18 +1,51 @@
-# Courses Management System – Java Project
+# Courses Management System (Java)
 
-## Project Description
-This project implements an online Courses Management System for educational institutions. 
-The system allows supervisors to manage courses and students to browse and register for them. 
-Students can search for courses by title, instructor name, or course area.
+##  Overview
+A command-line based Courses Management System developed in Java. The system allows supervisors to manage courses and enables students to browse and search for courses efficiently.
 
-## Authors
-- Arwa Alyami
-> Developed as part of a team of 3–4 students.
+##  Features
+- Add new courses to the system
+- Display all available courses
+- Search courses by:
+  - Title
+  - Instructor name
+  - Course area
+- Browse courses by category
+- Interactive Command-Line Interface (CLI)
+- Basic error handling for invalid inputs
 
-## Project Files
-- `Project_Report.pdf` → Contains code, program output, and explanations
+## Technologies Used
+- Java
+- Object-Oriented Programming (OOP)
+- Data Structures (Lists)
 
-## How to Run
-- The system is implemented in Java.  
-- Run the `Main` class to test all functionalities including adding courses, browsing, and searching.  
-- Use the command-line interface (CLI) to interact with the system.
+##  Key Concepts Applied
+- Class design (Course, Supervisor)
+- Encapsulation (Getters & Setters)
+- Search functionality implementation
+- CLI-based user interaction
+- Data handling using collections
+
+##  How to Run
+1. Open the project in any Java IDE (e.g., IntelliJ, Eclipse)  
+2. Run the `Main` class  
+3. Use the CLI menu to test all functionalities
+
+##  Sample Outputs
+
+### 🔹 Before Testing (Initial Run)
+![Before Testing](before_testing.png)
+
+### 🔹 During Testing (System Functionality)
+![During Testing](during_testing.png)
+
+### 🔹 Error Handling Example
+![Error Handling](error_handling.png)
+
+##  Full Documentation & Screenshots
+For full screenshots, test cases, and detailed explanations, check the project report:  
+[View Full Report](./Courses_Management_Report.pdf)
+
+##  Author
+Arwa Alyami  
+Developed as part of a university group project (3–4 students)
